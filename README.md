@@ -1,6 +1,20 @@
-# Hola, mi nombre es José Manuel Suárez 👋👋👋
+
+<img align="right" src="https://api.visitorbadge.io/api/visitors?path=jose-manuel-suarez&label=visitantes&labelColor=%23697689&countColor=%2337d67a"/>
+
+<h2 align="center">
+	<a href="https://git.io/typing-svg">
+		<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&duration=3500&pause=1000&color=33F7DB&center=true&vCenter=true&random=false&width=1000&height=100&lines=Hola !!! 👋👋👋;Soy José Manuel Suárez;Desarrollador de software en Argentina" alt="Typing SVG" />
+	</a>
 
 ![https://github.com/jose-manuel-suarez](/banner.png)
+
+<a href="https://skillicons.dev">
+	<img 
+		width="35%" align="center"
+		src="https://skillicons.dev/icons?i=py,java,javascript,bash,css,sass,regex,powershell,html,spring,git,github,bootstrap,c,cs,cpp,angular,php,ts,postman,postgresql,rxjs,webpack,vscode,eclipse,docker,express,mysql,gitlab,idea"
+		/>
+</a>
+</h2>
 
 ## Mi perfil académico
 Soy Analista Progrmador Universitario y Licenciado en Informática, graduado en la Universidad Nacional de La Plata (UNLP).</br>
@@ -19,7 +33,9 @@ Actualmente resido en Buenos Aires, Argentina.
 
 &emsp;[![Desktop](https://img.shields.io/badge/Desarrollador-Desktop-00CCBB)]()
 &emsp;[![WebFullStack](https://img.shields.io/badge/Desarrollador-Web_Full_Stack-3A76F0)]()
-&emsp;[![Freelance](https://img.shields.io/badge/Desarrollador-Freelance-FFFC00)]()
+&emsp;[![Freelance](https://img.shields.io/badge/Desarrollador-Freelance-FFFC00)]()<br>
+&emsp;[![Analista](https://img.shields.io/badge/Software-Analisis_Diseño_Desarrollo_QA_Mantenimiento-FF0000)]()
+&emsp;[![Enseñanza](https://img.shields.io/badge/Informática-Enseñanza-3A76F0)]()
 
 ## Tecnologías
 &emsp;[![Delphi](https://img.shields.io/badge/Delphi-B22222?logo=delphi&logoColor=white)]()
