@@ -3,7 +3,7 @@
 
 <h2 align="center">
 	<a href="https://git.io/typing-svg">
-		<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&duration=3500&pause=1000&color=33F7DB&center=true&vCenter=true&random=false&width=1000&height=100&lines=Hola !!! 👋👋👋;Soy José Manuel Suárez;Desarrollador de software en Argentina" alt="Typing SVG" />
+		<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=3500&pause=1000&color=33F7DB&center=true&vCenter=true&random=false&width=1000&height=100&lines=Hola !!! 👋👋👋;Soy José Manuel Suárez;Desarrollador de software en Argentina" alt="Typing SVG" />
 	</a>
 
 ![https://github.com/jose-manuel-suarez](/banner.png)
@@ -11,8 +11,7 @@
 <a href="https://skillicons.dev">
 	<img 
 		width="35%" align="center"
-		src="https://skillicons.dev/icons?i=py,java,javascript,bash,css,sass,regex,powershell,html,spring,git,github,bootstrap,c,cs,cpp,angular,php,ts,postman,postgresql,rxjs,webpack,vscode,eclipse,docker,express,mysql,gitlab,idea"
-		/>
+		src="https://skillicons.dev/icons?i=py,java,javascript,bash,css,sass,regex,powershell,html,spring,git,github,bootstrap,c,cs,cpp,angular,php,ts,postman,postgresql,rxjs,webpack,vscode,eclipse,docker,express,mysql,gitlab,idea" />
 </a>
 </h2>
 
