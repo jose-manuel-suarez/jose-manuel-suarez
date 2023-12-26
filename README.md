@@ -2,9 +2,7 @@
 <img align="right" src="https://api.visitorbadge.io/api/visitors?path=jose-manuel-suarez&label=visitantes&labelColor=%23697689&countColor=%2337d67a"/>
 
 <h2 align="center">
-	<a href="https://git.io/typing-svg">
-		<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&duration=3500&pause=1000&color=33F7DB&center=true&vCenter=true&random=false&width=1000&height=100&lines=Hola !!! 👋👋👋;Soy José Manuel Suárez;Desarrollador de software en Argentina" alt="Typing SVG" />
-	</a>
+	<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&duration=3500&pause=1000&color=33F7DB&center=true&vCenter=true&random=false&width=1000&height=100&lines=Hola !!! 👋👋👋;Soy José Manuel Suárez;Desarrollador de software en Argentina" alt="Typing SVG" />
 
 ![https://github.com/jose-manuel-suarez](/banner.png)
 
